@@ -31,3 +31,5 @@ ryan.last_name = "Altimari"
 def speak 
   puts ryan.knowledge
   end
+  
+  speak
