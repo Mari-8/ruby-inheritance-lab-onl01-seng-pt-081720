@@ -30,4 +30,4 @@ ryan.last_name = "Altimari"
 
 ryan.learn(some_knowledge)
 
-puts "#{ryan.knowledge} this is what you learned!"
+puts "#{ryan.last_name} #{ryan.knowledge} this is what you learned!"
