@@ -28,4 +28,4 @@ ryan = Student.new
 ryan.first_name = "Ryan"
 ryan.last_name = "Altimari" 
 
-ryan.last_name
+ryan.knowledge
