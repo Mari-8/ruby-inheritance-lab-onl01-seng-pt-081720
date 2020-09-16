@@ -28,4 +28,6 @@ ryan = Student.new
 ryan.first_name = "Ryan"
 ryan.last_name = "Altimari" 
 
-ryan.knowledge
+def speak 
+  puts ryan.knowledge
+  end
